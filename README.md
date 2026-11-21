@@ -1,16 +1,16 @@
 # Enterprise Growth Playbook
 
-**By Fenfig. Integrated business solutions for global enterprises. Step to growth.**
+**By Fenfig. Complete business solutions for global enterprises. Step to growth.**
 
 A practical, open set of guides and templates for leadership teams that plan, grow and scale organizations. It follows the five capabilities Fenfig works across:
 
 | # | Pillar | Guide |
 |---|--------|-------|
 | 1 | Strategy and Advisory | [01-strategy-and-advisory.md](01-strategy-and-advisory.md) |
-| 2 | Growth, Sales and Marketing | [02-growth-sales-and-marketing.md](02-growth-sales-and-marketing.md) |
-| 3 | Brand and Experience | [03-brand-and-experience.md](03-brand-and-experience.md) |
-| 4 | Technology and Digital | [04-technology-and-digital.md](04-technology-and-digital.md) |
-| 5 | People and Operations | [05-people-and-operations.md](05-people-and-operations.md) |
+| 2 | Business Development, Sales and Marketing | [02-business-development-sales-and-marketing.md](02-business-development-sales-and-marketing.md) |
+| 3 | Brand, Design and Experience | [03-brand-design-and-experience.md](03-brand-design-and-experience.md) |
+| 4 | Solutions and Technology | [04-solutions-and-technology.md](04-solutions-and-technology.md) |
+| 5 | People, Talent and Operations | [05-people-talent-and-operations.md](05-people-talent-and-operations.md) |
 
 ## Templates
 
@@ -28,6 +28,6 @@ A practical, open set of guides and templates for leadership teams that plan, gr
 
 ## Connect
 
-[YouTube](https://www.youtube.com/@fenfig) | [X](https://x.com/fenfigofficial) | [Facebook](https://www.facebook.com/fenfigofficial) | [Pinterest](https://www.pinterest.com/fenfigofficial/) | [Threads](https://www.threads.com/@fenfigofficial) | [TikTok](https://www.tiktok.com/@fenfigofficial)
+[YouTube](https://www.youtube.com/@fenfig) | [X](https://x.com/fenfigofficial) | [Facebook](https://www.facebook.com/fenfigofficial) | [Pinterest](https://www.pinterest.com/fenfigofficial/) | [Threads](https://www.threads.com/@fenfigofficial) | [TikTok](https://www.tiktok.com/@fenfigofficial) | [Behance](https://www.behance.net/fenfig) | [Product Hunt](https://www.producthunt.com/@fenfigofficial)
 
 Released under the MIT License. Use it, adapt it, share it.
